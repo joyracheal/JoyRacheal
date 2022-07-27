@@ -6,12 +6,14 @@ I'm a front-end developer :woman_technologist: and user experience designer :art
 
 ### Skills
 HTML5/ CSS3/ Javascript/ React/ Wireframing/ Prototyping/ UI Mockups/ User research <br> <br>
-:heartpulse: :heartpulse: :heartpulse: :heartpulse:
-- 👯 I’m looking to collaborate on open source and web3 projects
-- 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source...
-
-
-- 📫 How to reach me :pushpin::confetti_ball:...
+:toolbox: :toolbox: :toolbox: :toolbox:
+- :dancing_women: I’m looking to collaborate on open source and web3 projects :atom:
+- 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source 
+- 
+#### 📫 How to reach me :pushpin::confetti_ball:...
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn]
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
