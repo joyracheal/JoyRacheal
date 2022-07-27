@@ -45,5 +45,5 @@ I'm a front-end developer :woman_technologist: and user experience designer :art
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/joy-racheal-9565941b4/) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt='Twitter'/>](https://twitter.com/Joyracheal4) [<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](rachealjoy@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/joy-racheal-9565941b4/) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt='Twitter'/>](https://twitter.com/Joyracheal4) [<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/rachealjoy@gmail.com)
 
