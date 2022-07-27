@@ -5,14 +5,14 @@
 I'm a front-end developer :woman_technologist: and user experience designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
 ### Skills
-Problem-solving/Attention to details/ Teamwork/Strorytelling/Creativity/ Wireframing/Prototyping/User experience research <br> <br>
+Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wireframing/Prototyping/User experience research <br> <br>
 :toolbox: :toolbox: :toolbox: :toolbox:
 - :dancing_women: I’m looking to collaborate on open source and web3 projects :atom:
 - 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source 
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
 ![LinkedIn](https://img.shields.io/badge/linkedin.com/in/joy-racheal-9565941b4/.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
