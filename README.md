@@ -2,7 +2,7 @@
  
  # Hello there :wave: I'm Joy :octocat:
 
-I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=16&color=768390&center=true&vCenter=true&width=343&lines=Frontend+developer;product+designer)](https://git.io/typing-svg):art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
+I'm a Front-end develope and a Product designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
 
 # :sparkles: Skills
