@@ -2,7 +2,7 @@
  
  # Hello there :wave: I'm Joy :octocat:
 
-I'm a Front-end develope and a Product designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
+I am a front-end developer and product designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building fun projects solo and with a team.<br> I enjoy writing React code, creating user interfaces with Figma, and contributing to open source in general.
 
 
 # :sparkles: Skills
