@@ -1,5 +1,5 @@
- Hello Im Joy
----
+ Hello there :wave: I'm Joy :octocat:
+***
 
 
 I'm a front-end developer and user experience designer with an interest in web3 technologies: sparkles: :dizzy:. I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
