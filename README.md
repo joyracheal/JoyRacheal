@@ -5,8 +5,15 @@
 I'm a front-end developer :woman_technologist: and user experience designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
 
-# Skills
-Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wireframing/Prototyping/User experience research <br> <br>
+# :sparkles: Skills
+* :computer: Problem-solving
+* :dart: Attention to details
+* :dancing_women: Teamwork
+* :blue_book: Storytelling
+* :bulb: Creativity
+* :memo: Wireframing
+* :artist: Prototyping
+* :female_detective: User experience research <br> <br>
 
 :toolbox: :toolbox: :toolbox: :toolbox:
 - :dancing_women: I’m looking to collaborate on open source and web3 projects :atom:
@@ -38,5 +45,5 @@ Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wirefram
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/joy-racheal-9565941b4/) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt='Twitter'/>](https://twitter.com/Joyracheal4) 
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/joy-racheal-9565941b4/) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt='Twitter'/>](https://twitter.com/Joyracheal4) [<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](rachealjoy@gmail.com)
 
