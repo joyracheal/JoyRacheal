@@ -1,10 +1,9 @@
  # Hello there :wave: I'm Joy :octocat:
 
-
+![backgroundimage](https://github.com/joyracheal/JoyRacheal/blob/main/github-logo.png)
 
 I'm a front-end developer :woman_technologist: and user experience designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
-![backgroundimage](https://github.com/joyracheal/JoyRacheal/blob/main/github-logo.png)
 
 ### Skills
 Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wireframing/Prototyping/User experience research <br> <br>
@@ -13,8 +12,8 @@ Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wirefram
 - 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source 
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
-![LinkedIn](https://img.shields.io/badge/linkedin.com/in/joy-racheal-9565941b4/.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-racheal-9565941b4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Joyracheal4)  
+
 
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
