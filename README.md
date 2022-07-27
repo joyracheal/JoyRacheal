@@ -6,7 +6,7 @@ I'm a front-end developer :woman_technologist: and user experience designer :art
 
 ### Skills
 HTML5/ CSS3/ Javascript/ React/ Wireframing/ Prototyping/ UI Mockups/ User research
-***
+:heartpulse: :heartpulse: :heartpulse: :heartpulse:
 - 👯 I’m looking to collaborate on open source and web3 projects
 - 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source...
 
