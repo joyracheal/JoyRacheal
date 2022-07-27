@@ -4,6 +4,8 @@
 
 I'm a front-end developer :woman_technologist: and user experience designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
+![backgroundimage](https://github.com/joyracheal/JoyRacheal/blob/main/github-logo.png)
+
 ### Skills
 Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wireframing/Prototyping/User experience research <br> <br>
 :toolbox: :toolbox: :toolbox: :toolbox:
