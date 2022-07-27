@@ -17,7 +17,7 @@ I'm a Front-end develope and a Product designer :art: with an interest in web3 t
 
 :toolbox: :toolbox: :toolbox: :toolbox:
 - :dancing_women: I’m looking to collaborate on open source and web3 projects :atom:
-- 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source  
+- 💬 Ask me about UX, User research, Javascript, ReactJS, Blockchain, Open Source  
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
