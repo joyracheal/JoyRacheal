@@ -17,5 +17,8 @@ HTML5/ CSS3/ Javascript/ React/ Wireframing/ Prototyping/ UI Mockups/ User resea
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![LinkedIn](https://img.shields.io/twitter/linkedin.com/in/joy-racheal-9565941b4/?style=social)
+
+ <a href="(https://www.linkedin.com/in/joy-racheal-9565941b4/)">
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
 https://www.linkedin.com/in/joy-racheal-9565941b4/
