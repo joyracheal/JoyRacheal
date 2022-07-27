@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Joy :girl::girl:
+# Hi there 👋 I'm Joy :girl::girl:
 
-<!--
-**joyracheal/JoyRacheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+---
 
 
 I'm a front-end developer and user experience designer with an interest in web3 technologies: sparkles: :dizzy:. I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
