@@ -12,7 +12,10 @@ Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wirefram
 - 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source 
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-racheal-9565941b4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Joyracheal4)  
+
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-racheal-9565941b4//) [<img src="(https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white/>](https://twitter.com/https://twitter.com/Joyracheal4)  
 
 
 - 😄 Pronouns: she/ her
