@@ -3,11 +3,11 @@
 <!--
 **joyracheal/JoyRacheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-## I'm a front-end developer and User experience designer with interest in web3 technologies :sparkles::dizzy:. I reall enjoy learning new skills and building projecs, I like coding with react, designing my UI wth figma and contributing to open source in general
+
+I'm a front-end developer and user experience designer with an interest in web3 technologies: sparkles: :dizzy:. I really enjoy learning new skills and building projects. I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
 - 👯 I’m looking to collaborate on open source and web3 projects
-- 💬 Ask me about UX, User research, Javascript, ReactJS,Blcokchain, Open Source...
+- 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source...
 
 ...
 - 📫 How to reach me :pushpin::confetti_ball:...
