@@ -11,8 +11,8 @@ HTML5/ CSS3/ Javascript/ React/ Wireframing/ Prototyping/ UI Mockups/ User resea
 - 💬 Ask me about UX, User research, Javascript, ReactJS, Blcokchain, Open Source 
 - 
 #### 📫 How to reach me :pushpin::confetti_ball:...
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/linkedin.com/in/joy-racheal-9565941b4/.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/discord.com/racheal#8406.svg?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin.com/in/joy-racheal-9565941b4/.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
