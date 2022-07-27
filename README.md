@@ -2,7 +2,7 @@
  
  # Hello there :wave: I'm Joy :octocat:
 
-I'm a front-end developer :woman_technologist: and user experience designer :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
+I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7372C&lines=Frontend+developer;product+designer)](https://git.io/typing-svg) :art: with an interest in web3 technologies :sparkles: :dizzy:.<br> I really enjoy learning new skills and building projects.<br> I like coding with React, designing my UI with Figma, and contributing to open source in general.
 
 
 # :sparkles: Skills
@@ -43,7 +43,7 @@ I'm a front-end developer :woman_technologist: and user experience designer :art
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📫 How to reach me :pushpin::confetti_ball:...
+### 📫 How to reach me :pushpin::confetti_ball:
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'/>](https://www.linkedin.com/in/joy-racheal-9565941b4/) [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt='Twitter'/>](https://twitter.com/Joyracheal4) [<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail/rachealjoy@gmail.com)
 
