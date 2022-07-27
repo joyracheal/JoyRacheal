@@ -12,7 +12,7 @@ Problem-solving/Attention to details/ Teamwork/Storytelling/Creativity/ Wirefram
 
 #### 📫 How to reach me :pushpin::confetti_ball:...
 ![LinkedIn](https://img.shields.io/badge/linkedin.com/in/joy-racheal-9565941b4/.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
